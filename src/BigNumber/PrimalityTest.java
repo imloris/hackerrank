@@ -1,4 +1,4 @@
-package BigDecimal;
+package BigNumber;
 
 import java.io.BufferedReader;
 import java.io.IOException;

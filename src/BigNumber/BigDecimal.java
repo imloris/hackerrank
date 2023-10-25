@@ -1,4 +1,4 @@
-package BigDecimal;
+package BigNumber;
 
 import java.util.Scanner;
 
